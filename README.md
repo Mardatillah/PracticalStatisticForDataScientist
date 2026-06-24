@@ -1,1 +1,1 @@
-# practicalstatisticfordatascientist
+# Practical Statistic for Data Scientist
